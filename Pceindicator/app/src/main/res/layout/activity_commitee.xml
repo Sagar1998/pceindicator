@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.akanksha.pceindicator.commitee">
+
+    <Button
+        android:id="@+id/csi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="49dp"
+        android:text="csi" />
+
+    <Button
+        android:id="@+id/etsa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/csi"
+        android:layout_below="@+id/csi"
+        android:layout_marginTop="76dp"
+        android:text="@string/title_activity_etsa" />
+
+    <Button
+        android:id="@+id/ieee"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/etsa"
+        android:layout_below="@+id/etsa"
+        android:layout_marginTop="70dp"
+        android:text="ieee" />
+</RelativeLayout>

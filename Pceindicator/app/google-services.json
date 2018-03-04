@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "307535371851",
+    "firebase_url": "https://pceindicator.firebaseio.com",
+    "project_id": "pceindicator",
+    "storage_bucket": "pceindicator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307535371851:android:35354986169c3f5a",
+        "android_client_info": {
+          "package_name": "com.example.akanksha.pceindicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307535371851-9i8h2mispntbo34lqeek61d9k84db9up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjDmJE2QkmXVar7hCkcgeB6MBd1WQceZ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
